@@ -47,16 +47,23 @@
 
 ## 📂 Proyectos Destacados
 
-### 🌐 Desarrollo Web
-- Portfolio Personal
+### 📋 Task Manager
+Aplicación full-stack desarrollada con React, Node.js, Express y PostgreSQL.
 
-### 🐍 Python
-- Scripts de automatización
+**Características:**
+- Autenticación JWT
+- API REST
+- Tablero Kanban
+- Gestión de tareas
 
-### 🔐 Ciberseguridad
-- Laboratorios de TryHackMe
-- Writeups de CTF
+### 🐍 Automatización y Análisis de Logs
+Proyecto en Python para automatizar el procesamiento de logs y generar reportes.
 
+**Características:**
+- Análisis de logs
+- Automatización de tareas
+- Generación de reportes
+- Programación de ejecuciones
 ---
 
 ## 📫 Contacto
