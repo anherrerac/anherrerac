@@ -11,7 +11,7 @@
 
 🎯 Objetivos para 2026:
 - Conseguir mi primer rol en ciberseguridad
-- Obtener SC-200 y CCNA
+- Obtener SC-200
 
 ---
 
